@@ -11,3 +11,4 @@ let amy = carlike({},1);
 console.log(amy);
 amy.move();
 console.log(amy);
+console.log(amy);
